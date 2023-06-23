@@ -1,9 +1,11 @@
+NOTE: THIS SCRIPT HAS ONLY BEEN TESTED WITH PowerShell V2.  It will NOT work with PowerShell V1.
+
 Before you can start using PowerShell to document anything in the XenDesktop 4 farm you 
 first need to install the XenDesktop SDK.  From either your XenDesktop 4 DDC or another 
-computer, go to http://community.citrix.com/display/xd/Download+SDKS.
+computer, go to https://carlwebster.sharefile.com/d-sb9bec4d2dcc4479d8b5cb3918724e434.
   
 For instructions on how to install the SDK from the XenDesktop 4 installation media, 
-please see http://blogs.citrix.com/2010/08/11/xendesktop-4-powershell-sdk-primer-part-1-getting-started/
+please see https://carlwebster.sharefile.com/d-s5ca9e46ccdd048f68269707266d5a03d
 
 Click Start, All Programs, Citrix, Desktop Delivery Controller SDK, Citrix Desktop Delivery 
 Controller SDK Shell.  A PowerShell session starts with the Citrix XenDesktop 4 PowerShell 
